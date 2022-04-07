@@ -1,0 +1,2 @@
+(this["webpackJsonpaperture-landing-page"]=this["webpackJsonpaperture-landing-page"]||[]).push([[13],{313:function(t,n,i){"use strict";i.r(n),i.d(n,"default",(function(){return e}));i(0);var a=i(1);function e(t){return Object(a.jsx)("div",{className:"imgSort",style:{margin:"".concat(t.margin,"px auto"),justifyContent:t.justify},children:t.images.map((function(t,n){return Object(a.jsx)("img",{src:t.img,width:t.width,alt:"".concat(t.img)},n)}))})}}}]);
+//# sourceMappingURL=13.6b6f4744.chunk.js.map
