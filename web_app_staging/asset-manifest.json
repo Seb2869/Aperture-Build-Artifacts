@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0306c95.chunk.css",
-    "main.js": "/static/js/main.ab999e5b.chunk.js",
-    "main.js.map": "/static/js/main.ab999e5b.chunk.js.map",
+    "main.css": "/static/css/main.ecc671d2.chunk.css",
+    "main.js": "/static/js/main.b9ce2f14.chunk.js",
+    "main.js.map": "/static/js/main.b9ce2f14.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2e75d2c2.js",
     "runtime-main.js.map": "/static/js/runtime-main.2e75d2c2.js.map",
-    "static/js/2.836d7466.chunk.js": "/static/js/2.836d7466.chunk.js",
-    "static/js/2.836d7466.chunk.js.map": "/static/js/2.836d7466.chunk.js.map",
+    "static/js/2.0f9a6435.chunk.js": "/static/js/2.0f9a6435.chunk.js",
+    "static/js/2.0f9a6435.chunk.js.map": "/static/js/2.0f9a6435.chunk.js.map",
     "static/js/3.175710d0.chunk.js": "/static/js/3.175710d0.chunk.js",
     "0606723d54bfc4c64172.module.wasm": "/0606723d54bfc4c64172.module.wasm",
     "static/js/3.175710d0.chunk.js.map": "/static/js/3.175710d0.chunk.js.map",
@@ -30,8 +30,8 @@
     "static/js/11.45b67d42.chunk.js": "/static/js/11.45b67d42.chunk.js",
     "static/js/11.45b67d42.chunk.js.map": "/static/js/11.45b67d42.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b0306c95.chunk.css.map": "/static/css/main.b0306c95.chunk.css.map",
-    "static/js/2.836d7466.chunk.js.LICENSE.txt": "/static/js/2.836d7466.chunk.js.LICENSE.txt",
+    "static/css/main.ecc671d2.chunk.css.map": "/static/css/main.ecc671d2.chunk.css.map",
+    "static/js/2.0f9a6435.chunk.js.LICENSE.txt": "/static/js/2.0f9a6435.chunk.js.LICENSE.txt",
     "static/media/BW Logo-Dark Base.a3cbc61f.svg": "/static/media/BW Logo-Dark Base.a3cbc61f.svg",
     "static/media/BW Logo-Light Base.4b1b40b8.svg": "/static/media/BW Logo-Light Base.4b1b40b8.svg",
     "static/media/Color-Logo.a83311e9.svg": "/static/media/Color-Logo.a83311e9.svg",
@@ -71,7 +71,6 @@
     "static/media/navSettings.4374f83e.svg": "/static/media/navSettings.4374f83e.svg",
     "static/media/pancakeswap.285bc1bc.svg": "/static/media/pancakeswap.285bc1bc.svg",
     "static/media/pangolin.45913d64.svg": "/static/media/pangolin.45913d64.svg",
-    "static/media/robot.0f9d3157.svg": "/static/media/robot.0f9d3157.svg",
     "static/media/search.f1fd3cb0.svg": "/static/media/search.f1fd3cb0.svg",
     "static/media/solana.1c3147b5.svg": "/static/media/solana.1c3147b5.svg",
     "static/media/synapse.2ad11ea4.svg": "/static/media/synapse.2ad11ea4.svg",
@@ -90,8 +89,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2e75d2c2.js",
-    "static/js/2.836d7466.chunk.js",
-    "static/css/main.b0306c95.chunk.css",
-    "static/js/main.ab999e5b.chunk.js"
+    "static/js/2.0f9a6435.chunk.js",
+    "static/css/main.ecc671d2.chunk.css",
+    "static/js/main.b9ce2f14.chunk.js"
   ]
 }
